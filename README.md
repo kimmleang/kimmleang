@@ -36,6 +36,3 @@ A software developer, who is passionate about building web applications and mobi
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmleang&layout=compact&theme=radical)
 
-## Pinned Repositories
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kimmleang&repo=repo1&theme=radical)](https://github.com/kimmleang/repo1)
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=kimmleang&repo=repo2&theme=radical)](https://github.com/kimmleang/repo2)
