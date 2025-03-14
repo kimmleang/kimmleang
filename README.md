@@ -2,16 +2,15 @@
 
 I'm passionate about software development and exploring new technologies to build up my career and projects.
 
-- 🌱 I’m currently learning React for Frontend and Node, Express for Backend
-- 💬 Ask me about MERN Stack
+- 🌱 I’m currently working at one start-up company
+- 💬 A software developer, who is passionate about building web applications and mobile applications. I am always looking for new opportunities to learn and grow as a developer.
 - 📫 Contact me via [johnkimleang29@gmail.com](mailto:johnkimleang29@gmail.com)
-- ⚡ Fun fact: Love taking astrophotography and self-learning astronomy
 
 
 ## Contact me via:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/kimmleang)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/kimmleang)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kimmleang)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/john-kimleang-33382629a)
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/leang.bros.73)
+[![Instagram](https://img.shields.io/badge/Telegram-%23E4405F.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kimm_leang)
 
 ## GitHub Stats
 ![Kimleang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimmleang&show_icons=true&theme=radical)
