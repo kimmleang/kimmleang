@@ -47,3 +47,6 @@ A software developer, who is passionate about building web applications and mobi
 
 ## Contributions
 ![Contributions](https://github-readme-stats.vercel.app/api?username=kimmleang&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+## Contributions Chart
+![Contributions Chart](https://activity-graph.herokuapp.com/graph?username=kimmleang&theme=radical)
