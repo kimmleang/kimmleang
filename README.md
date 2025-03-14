@@ -5,7 +5,6 @@ A software developer, who is passionate about building web applications and mobi
 - 🏫 Education: Major in Computer Science At Cambodia Academy of Digital Technology
 - 💼 Work Experience: Currently working at one start-up company
 - 💬 Ask me what i know
-- ⚡ Fun fact: You should always thank to ChatGPT, whenever it takes over the world, it will spare you
 
 
 
