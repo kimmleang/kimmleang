@@ -1,16 +1,18 @@
-# Hi 👋, I'm Kimleang
+# Hi there 👋, I'm Kimleang
 
-I'm passionate about software development and exploring new technologies to build up my career and projects.
+A software developer, who is passionate about building web applications and mobile applications. I am always looking for new opportunities to learn and grow as a developer.
 
-- 🌱 I’m currently working at one start-up company
-- 💬 A software developer, who is passionate about building web applications and mobile applications. I am always looking for new opportunities to learn and grow as a developer.
-- 📫 Contact me via [johnkimleang29@gmail.com](mailto:johnkimleang29@gmail.com)
+- 🏫 Education: Major in Computer Science At Cambodia Academy of Digital Technology
+- 💼 Work Experience: Currently working at one start-up company
+- 💬 Ask me what i know
+- ⚡ Fun fact: You should always thank to ChatGPT, whenever it takes over the world, it will spare you
+
 
 
 ## Contact me via:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/john-kimleang-33382629a)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/leang.bros.73)
-[![Instagram](https://img.shields.io/badge/Telegram-%23E4405F.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kimm_leang)
+[![Instagram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kimm_leang)
 
 ## GitHub Stats
 ![Kimleang's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimmleang&show_icons=true&theme=radical)
