@@ -25,6 +25,13 @@ A software developer, who is passionate about building web applications and mobi
 ![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-%23CC2927.svg?style=for-the-badge&logo=microsoft-sql-server&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Adobe Photoshop](https://img.shields.io/badge/Adobe%20Photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe-photoshop&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Filament](https://img.shields.io/badge/Filament-%23F24E1E.svg?style=for-the-badge&logo=filament&logoColor=white)
+![Payload CMS](https://img.shields.io/badge/Payload%20CMS-%23000000.svg?style=for-the-badge&logo=payload-cms&logoColor=white)
+![React Chart](https://img.shields.io/badge/React%20Chart-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
+![Laravel Botble](https://img.shields.io/badge/Laravel%20Botble-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+
 ## Contact me via:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/john-kimleang-33382629a)
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://web.facebook.com/leang.bros.73)
@@ -35,4 +42,3 @@ A software developer, who is passionate about building web applications and mobi
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmleang&layout=compact&theme=radical)
-
