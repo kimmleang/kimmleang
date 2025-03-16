@@ -37,11 +37,19 @@ A software developer, who is passionate about building web applications and mobi
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231877F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/john-kimleang-33382629a)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kimm_leang)
 
-## Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmleang&layout=compact&theme=radical)
+## 📊 GitHub Stats
 
-## Contributions 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimmleang&show_icons=true&theme=radical&title_color=00ff00&text_color=00ff00)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmleang&layout=compact&theme=radical" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=kimmleang&show_icons=true&theme=radical&title_color=00ff00&text_color=00ff00" />
+    </td>
+  </tr>
+</table>
+
 
 
 
