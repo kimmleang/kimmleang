@@ -3,7 +3,7 @@
 A software developer, who is passionate about building web applications and mobile applications. I am always looking for new opportunities to learn and grow as a developer.
 
 - 🏫 Education: Major in Computer Science At Cambodia Academy of Digital Technology
-- 💼 Work Experience: Currently working at one start-up company
+- 💼 Work Experience: 1+ year of experience and currently working at one start-up company
 - 💬 Ask me what I know
 
 ## Technologies & Frameworks:
