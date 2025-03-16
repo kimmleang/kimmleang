@@ -4,7 +4,6 @@ A software developer, who is passionate about building web applications and mobi
 
 - 🏫 Education: Major in Computer Science At Cambodia Academy of Digital Technology
 - 💼 Work Experience: 1+ year of experience and currently working at one start-up company
-- 💬 Ask me what I know
 
 ## Technologies & Frameworks:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -40,7 +39,6 @@ A software developer, who is passionate about building web applications and mobi
 
 ## Most Used Languages
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmleang&layout=compact&theme=radical)
-
 
 ## Contributions 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=kimmleang&show_icons=true&theme=radical&title_color=00ff00&text_color=00ff00)
