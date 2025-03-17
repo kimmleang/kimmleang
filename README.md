@@ -37,8 +37,9 @@ A software developer, who is passionate about developing web applications and mo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231877F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/john-kimleang-33382629a)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kimm_leang)
 
-<div margin="20px">
-  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmleang&layout=compact&theme=radical" />
+## 📊 GitHub Stats
+<div align="center">
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmleang&layout=compact&theme=radical" style="margin-right: 20px;" />
   <img height="180px" src="https://github-readme-stats.vercel.app/api?username=kimmleang&show_icons=true&theme=radical&title_color=00ff00&text_color=00ff00" />
 </div>
 
