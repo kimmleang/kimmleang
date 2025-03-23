@@ -15,7 +15,6 @@ A software developer, who is passionate about developing web applications and mo
 ![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Payload CMS](https://img.shields.io/badge/Payload%20CMS-%23000000.svg?style=for-the-badge&logo=payload-cms&logoColor=white)
 ![React Chart](https://img.shields.io/badge/React%20Chart-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![Laravel Botble](https://img.shields.io/badge/Laravel%20Botble-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
