@@ -48,6 +48,6 @@ A software developer, who is passionate about developing web applications and mo
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmleang&layout=compact&theme=radical" />
 
 ## Contribution
-<img src="https://github-readme-stats.vercel.app/api?username=kimmleang&show_icons=true&theme=radical&title_color=00ff00&text_color=00ff00" />
+(https://github-readme-stats.vercel.app/api?username=kimmleang&show_icons=true&theme=radical&title_color=00ff00&text_color=00ff00)
 
 
