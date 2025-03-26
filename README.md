@@ -44,5 +44,14 @@ A software developer, who is passionate about developing web applications and mo
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kimm_leang)
 
 
+## Top Langauge
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmleang&layout=compact&theme=radical" />
+
+## Contribution
+<img src="https://github-readme-stats.vercel.app/api?username=kimmleang&show_icons=true&theme=radical&title_color=00ff00&text_color=00ff00" />
+
+## GitHub Activity Graph
+![Kimleang's GitHub Activity](https://github-readme-activity-graph.vercel.app/graph?username=kimmleang&theme=radical)
+
 
 
