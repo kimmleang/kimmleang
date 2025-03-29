@@ -1,4 +1,4 @@
- # Hello there, I'm Kimleang
+ # Hello there! I'm Kimleang
 
 A software developer, who is passionate about developing web applications and mobile applications. I'm always lookingfor new opportunity to learn and growth as a developer.
 
