@@ -3,7 +3,6 @@
 A software developer, who is passionate about developing web applications and mobile applications. I'm always lookingfor new opportunity to learn and growth as a developer.
 
 - 🏫 Education: Major in Computer Science At Cambodia Academy of Digital Technology.
-- hoobides
 - 💼 Work Experience: More than one years of experience and currently working as a software developer at one private sector.
 
 ## Technologies & Frameworks:
