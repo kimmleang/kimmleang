@@ -3,7 +3,7 @@
 A software developer, who is passionate about developing web applications and mobile applications. I'm always lookingfor new opportunity to learn and growth as a developer.
 
 - 🏫 Education: Major in Computer Science At Cambodia Academy of Digital Technology.
-- 💼 Work Experience: More than one years of experience and currently working as a software developer at one private sector.
+- 💼 Work Experience: More than one years of experience and currently working as a software developer at private sector in Cambodia
 
 ## Technologies & Frameworks:
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
