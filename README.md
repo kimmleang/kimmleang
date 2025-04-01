@@ -1,6 +1,6 @@
  # Hello there! I'm Kimleang
 
-A software developer, who is passionate about developing Website and Mobile applications. I'm always looking for new opportunity to learn and growth as a developer.
+A software developer, who is passionate about developing Website and Mobile Applications. I'm always looking for new opportunity to learn and growth as a developer.
 
 - 🏫 Education: Major in Computer Science at Cambodia Academy of Digital Technology.
 - 💼 Work Experience: More than one years of experience and currently working as a software developer at private sector in Cambodia
