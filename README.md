@@ -41,7 +41,7 @@ A software developer, who is passionate about developing Website and Mobile Appl
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kimm_leang)
 
 
-## Top Langauge
+## Top Used Langauge
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmleang&layout=compact&theme=radical"/>
 
 ## Contribution
