@@ -1,4 +1,3 @@
- # Hello there👋! I'm Kimleang
 
 A software developer, who is passionate about developing Website and Mobile Applications. I'm always looking for new opportunity to learn and growth as a developer.
 
@@ -37,7 +36,6 @@ A software developer, who is passionate about developing Website and Mobile Appl
 
 
 ## Contact
-## Contact
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%231877F2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/john-kimleang-33382629a)
 [![Telegram](https://img.shields.io/badge/Telegram-%230077B5.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/kimm_leang)
 [![Email](https://img.shields.io/badge/Email-D14836.svg?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:johnkimleang29@gmail.com)
@@ -47,11 +45,6 @@ A software developer, who is passionate about developing Website and Mobile Appl
 ## Top Used Langauge
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmleang&layout=compact&theme=radical"/>
 
-## Contribution
-<img src="https://github-readme-stats.vercel.app/api?username=kimmleang&show_icons=true&theme=radical&title_color=00ff00&text_color=01ff00" />
-
-## Activity
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=kimmleang&bg_color=000000&color=00ff00&line=00ff00&point=ffffff&area=true&hide_border=true)
 
 
 
