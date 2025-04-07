@@ -43,7 +43,7 @@ A software developer, who is passionate about developing Website and Mobile Appl
 
 
 ## Top Used Langauge
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kimmleang&layout=compact&theme=radical"/>
+[Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=kimmleang&layout=compact&theme=radical&langs_count=10)
 
 
 
